@@ -83,4 +83,4 @@ Thank you for following along on this journey. Stay tuned for more technical dee
 
 ---
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/luca-zanolini-a18654392/) | [GitHub](https://github.com/LucaZanoliniProfessional) | [Email](mailto:lucazanolini.pro@gmail.com)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/luca-zanolini-a18654392/) | [GitHub](https://github.com/LucaZanoliniProfessional) | [lucazanolini.pro@gmail.com](mailto:lucazanolini.pro@gmail.com)
