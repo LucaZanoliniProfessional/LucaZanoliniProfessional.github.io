@@ -56,9 +56,9 @@ The system is currently in active development and testing with real inventory. K
 - ✅ Competitive data gathering and caching
 - ✅ Fee calculation with 95%+ accuracy
 - ✅ File safety mechanisms for production reliability
-- 🔄 Testing with live inventory (24 SKUs initially)
+- 🔄 Testing with live inventory (~1,500 SKUs)
 - 🔄 Performance optimization and edge case handling
-- 📋 Scaling to thousands of SKUs
+- 📋 Scaling to full catalog
 - 📋 SaaS platform development
 
 ## What's Next?
@@ -83,4 +83,4 @@ Thank you for following along on this journey. Stay tuned for more technical dee
 
 ---
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/luca-zanolini-a18654392/) | [GitHub](https://github.com/LucaZanoliniProfessional) | [lucazanolini.pro@gmail.com](mailto:lucazanolini.pro@gmail.com)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/luca-zanolini-a18654392/) | [GitHub](https://github.com/LucaZanoliniProfessional) | lucazanolini.pro@gmail.com
