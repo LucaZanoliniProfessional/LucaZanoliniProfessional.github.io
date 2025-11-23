@@ -6,7 +6,7 @@ Welcome to the first post on my development blog! I'm excited to share my journe
 
 ## What is This Project?
 
-This is an intelligent repricing system designed to automatically optimize product prices on Amazon's marketplace. Unlike traditional rule-based repricers that simply undercut competitors by a penny, this system uses advanced algorithms and artificial intelligence to make nuanced pricing decisions that maximize profitability while staying competitive.
+This is an LLM-guided repricing system designed to automatically optimize product prices on Amazon's marketplace. Unlike traditional rule-based repricers that simply undercut competitors by a penny, this system uses machine learning and contextual analysis to make nuanced pricing decisions that maximize profitability while staying competitive.
 
 ## The Problem
 
@@ -16,6 +16,8 @@ Traditional solutions fall short:
 - **Manual pricing** doesn't scale and can't keep up with market changes
 - **Simple rule-based repricers** often race to the bottom, eroding margins
 - **One-size-fits-all strategies** ignore product-specific factors like storage fees, sales velocity, and competitive dynamics
+
+**Example:** A long-tail book with slow sales but high storage fees needs a very different strategy than a fast-moving CD with dozens of FBA competitors. The book might require aggressive pricing to avoid storage costs, while the CD needs careful competitive positioning to maintain margins in a crowded market.
 
 ## My Approach
 
