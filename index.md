@@ -22,5 +22,3 @@ This project is currently in active development and **not open source**. The cod
 ---
 
 *This blog is updated regularly as new features are developed and challenges are overcome. Check back for new posts on system architecture, algorithm design, and marketplace automation insights.*
-
-**Navigation:** [About](about.md) | [Contact](contact.md) | [All Posts](posts.md)
