@@ -30,3 +30,7 @@ This project is currently in active development and **not open source**. The cod
 ---
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/luca-zanolini-a18654392/) | [GitHub](https://github.com/LucaZanoliniProfessional) | lucazanolini.pro@gmail.com
+
+---
+
+*Analytics via [GoatCounter](https://www.goatcounter.com/) (privacy-friendly, no cookies)*
