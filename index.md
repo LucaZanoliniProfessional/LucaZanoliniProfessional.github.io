@@ -34,3 +34,5 @@ This project is currently in active development and **not open source**. The cod
 ---
 
 *Analytics via [GoatCounter](https://www.goatcounter.com/) (privacy-friendly, no cookies)*
+
+<script data-goatcounter="https://lucazano.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

@@ -86,3 +86,5 @@ Thank you for following along on this journey. Stay tuned for more technical dee
 ---
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/luca-zanolini-a18654392/) | [GitHub](https://github.com/LucaZanoliniProfessional) | lucazanolini.pro@gmail.com
+
+<script data-goatcounter="https://lucazano.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
