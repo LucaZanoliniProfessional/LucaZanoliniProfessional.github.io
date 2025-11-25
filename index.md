@@ -17,6 +17,7 @@ This system represents a data-driven approach to automated repricing that goes b
 
 ## Updates
 
+- **[November 24, 2025 - Notification Repricing: Faster, Stronger, Better](2025-11-24-notification-repricing.md)**
 - **[November 23, 2025 - Introduction: Building an Intelligent Amazon Repricing System](2025-11-23-introduction.md)**
 
 ## Status
