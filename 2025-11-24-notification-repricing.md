@@ -2,7 +2,7 @@
 
 **November 24, 2025**
 
-In my previous post, I introduced the foundations of my intelligent Amazon repricing system — a fully custom tool designed to make contextual pricing decisions using competitive data, fee modeling, and LLM-driven logic. Since then, the system has evolved significantly, and this update covers one of the most transformative developments so far: **notification-based repricing.**
+In my previous post, I introduced the foundations of my intelligent Amazon repricing system — a fully custom tool designed to make contextual pricing decisions using competitive data, fee modeling, and LLM-driven logic. Since then, the system has evolved slightly, and this update covers one of the most transformative developments so far: **notification-based repricing.**
 
 ## The Traditional Approach: Batch Repricing
 
@@ -26,9 +26,9 @@ At the time, batch pricing appeared vulnerable: getItemOffersBatch *conceptually
 
 Rather than wait and see, I decided to engineer around the problem.
 
-## Taking the Leap: Notification-Based Repricing
+## Notification-Based Repricing
 
-This led me to build a second repricing engine, one that uses Amazon’s **notification system** through AWS.  
+This led me to build a second repricing engine, one that uses Amazon's **notification system** through AWS.
 I had avoided AWS for a long time — not because it is difficult, but because it’s broad and easy to overcomplicate.  
 But this challenge created the perfect opportunity.
 
@@ -43,9 +43,9 @@ Notification repricing works by subscribing to Amazon’s competitive pricing ev
 This architecture shifts repricing from a **polling model** to a **reactive, event-driven model**.  
 As soon as an offer changes, my system knows — and can respond — instantly.
 
-## The Plot Twist: Batch Repricing Isn’t Metered
+## Batch Repricing Isn't Metered
 
-After building the notification pipeline, I revisited Amazon’s documentation and confirmed something surprising:
+After building the notification pipeline, I revisited Amazon's documentation and confirmed something surprising:
 
 **getItemOffersBatch is a POST endpoint, not a GET endpoint.**
 
@@ -57,7 +57,7 @@ Instead of a problem, I suddenly had an opportunity.
 ## A Hybrid Architecture: The Best of Both Worlds
 
 Rather than choosing between batch or notification repricing, I adopted both.  
-Running them in tandem creates a hybrid system with significant advantages:
+Running them in tandem creates a hybrid system that is **significantly more robust and less likely to miss pricing changes** than relying on either approach alone. The combination provides significant advantages:
 
 ### 1. Real-Time Responsiveness (Notifications)
 Instant reaction to:
@@ -89,7 +89,7 @@ What began as a response to a potential API cost issue became a major architectu
 
 ---
 
-Thank you for following along on this journey. Stay tuned for more technical deep-dives and development updates!
+Thank you and stay tuned!
 
 **[← Back to Home](index.md)**
 
